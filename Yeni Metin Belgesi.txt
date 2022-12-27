@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=DESKTOP-7GBAU63;Database=Northwind;uid=berat;pwd=12345678; TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -t Employees, Products , "Order Details", Orders -output Models
