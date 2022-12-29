@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_FormGiris", "1_FormGiris\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Form", "2_Form\2_Form.csproj", "{2D30CDA7-4C76-42FC-A7D9-85AB0CE57EDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Form", "3_Form\3_Form.csproj", "{5D9BF364-92D8-4DE6-BE26-6382747792C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Form", "3_Form\3_Form.csproj", "{5D9BF364-92D8-4DE6-BE26-6382747792C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_WpfFormm", "4_WpfFormm\4_WpfFormm.csproj", "{51176918-1C0B-4CE2-A3C2-1CF8FFC09E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_WpfForm_1", "4_WpfForm_1\4_WpfForm_1.csproj", "{7CA50FA5-48B6-410D-86F8-D86961D70A9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{5D9BF364-92D8-4DE6-BE26-6382747792C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D9BF364-92D8-4DE6-BE26-6382747792C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D9BF364-92D8-4DE6-BE26-6382747792C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51176918-1C0B-4CE2-A3C2-1CF8FFC09E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51176918-1C0B-4CE2-A3C2-1CF8FFC09E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51176918-1C0B-4CE2-A3C2-1CF8FFC09E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51176918-1C0B-4CE2-A3C2-1CF8FFC09E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA50FA5-48B6-410D-86F8-D86961D70A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA50FA5-48B6-410D-86F8-D86961D70A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA50FA5-48B6-410D-86F8-D86961D70A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA50FA5-48B6-410D-86F8-D86961D70A9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,18 @@
+﻿<Window x:Class="_4_WpfFormm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_4_WpfFormm"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock Text="İşaretleme Dilleri"/>
+        <TextBlock  Text="Xml (Extensible Markup Language) "/>
+        <TextBlock Text="Xaml (Extensible Application Markup Language"/>
+        <TextBlock Text="Html (Hyper Text Markup Language)" />
+        <Button Content="TIKLA" Height="35" Click="Button_Click" Background="#FFE62A2A" FontFamily="Bahnschrift SemiBold" FontSize="20" />
+    </StackPanel>
+
+   
+</Window>
