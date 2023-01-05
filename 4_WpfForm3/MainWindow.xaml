@@ -7,20 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Window.Resources>
-        <SolidColorBrush x:Key="bgRed" Color="Red"> </SolidColorBrush>
+        <SolidColorBrush x:Key="bgRed" Color="Red"></SolidColorBrush>
         <SolidColorBrush x:Key="textWhite" Color="White"></SolidColorBrush>
 
     </Window.Resources>
-    
+
     <StackPanel>
-        
-        <Button Height="50" Background="{StaticResource bgRed} " Foreground="{StaticResource textWhite} ">
+
+        <Button Height="50" Background="{StaticResource bgRed}" Foreground="{StaticResource textWhite}" Content="Test Button">
             <!--<Button.Background>
                 <SolidColorBrush Color="Red"> </SolidColorBrush>
             </Button.Background>-->
-            Test Button
         </Button>
 
-        <Button Foreground="{DynamicResource GenelText}">Ben Buttons</Button>
+        <Button Foreground="{DynamicResource GenelText}" Content="Ben Buttons"/>
     </StackPanel>
 </Window>
